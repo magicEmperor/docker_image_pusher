@@ -1,5 +1,1 @@
-apache/superset:latest
-redis
-crawlabteam/crawlab
-mongo:4.2
-mysql
+mongo
